@@ -39,10 +39,3 @@ Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) instala
 - Prompt
 - Javascript
 
-## 📄 Licença
-Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo conforme necessário.
-
----
-
-Feito com ❤️ por [Seu Nome](https://github.com/seu-usuario) 🚀
-
